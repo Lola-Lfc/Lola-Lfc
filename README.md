@@ -27,7 +27,7 @@
 
 ###
 
-<p align="center">Je m'appelle Loïc et j'ai 18 ans<br>Passioné de montage vidéo, j'utilise depuis 2 ans Premiere Pro et After Effects<br>Je suis aussi passioné par le monde de l'indé, autant par les jeux que par les séries</p>
+<p align="center">Je m'appelle Lola et j'ai 18 ans<br>Passioné de montage vidéo, j'utilise depuis 2 ans Premiere Pro et After Effects<br>Je suis aussi passioné par le monde de l'indé, autant par les jeux que par les séries</p>
 
 ###
 
