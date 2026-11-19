@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="https://x.com/i/status/1998972295499624917">
-    <img src="./assets/animation.gif" width="29%" align="right" alt="Animation" />
-  </a>
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=42&duration=3500&pause=900&color=BDA5E8&center=true&vCenter=true&width=720&height=100&lines=Bonjour%2C+moi+c%27est+Lola+%E2%9C%A9;Monteuse+vid%C3%A9o+%26+cr%C3%A9ative" width="69%" alt="Bonjour, moi c'est Lola - Monteuse vidéo et créative" />
   <br><br>
   <pre>
@@ -28,7 +25,6 @@
 <div align="center">
   <h3>Logiciels & outils</h3>
   <img src="https://skillicons.dev/icons?i=pr,ae,ps,ai,au,blender,figma,vscode&theme=dark" height="43" alt="Premiere Pro, After Effects, Photoshop, Illustrator, Audition, Blender, Figma et VS Code" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Adobe_Media_Encoder_CC_2026_icon.svg" height="43" alt="Adobe Media Encoder" title="Adobe Media Encoder" />
   <br><br>
   <h3>Développement</h3>
   <img src="https://skillicons.dev/icons?i=py,html,css,js,php,cpp,laravel,unity&theme=dark" height="43" alt="Python, HTML, CSS, JavaScript, PHP, C++, Laravel et Unity" />
