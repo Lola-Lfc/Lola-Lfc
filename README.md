@@ -1,72 +1,39 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/85/8a/c7/858ac768fca04939c2081dbf49c5f075.gif"  />
+  <a href="https://x.com/i/status/1998972295499624917">
+    <img src="./assets/animation.gif" width="29%" align="right" alt="Animation" />
+  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=42&duration=3500&pause=900&color=BDA5E8&center=true&vCenter=true&width=720&height=100&lines=Bonjour%2C+moi+c%27est+Lola+%E2%9C%A9;Monteuse+vid%C3%A9o+%26+cr%C3%A9ative" width="69%" alt="Bonjour, moi c'est Lola - Monteuse vidéo et créative" />
+  <br><br>
+  <pre>
+  ✦ Monteuse vidéo & motion designer
+  ✦ Premiere Pro · After Effects · Blender
+  ✦ Développement & projets créatifs
+  ✦ Jeux indés · Animation · Séries
+  </pre>
+  <br>
+  <a href="https://discord.com/users/652535917227016192"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://lola-lefranc.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-BDA5E8?style=flat-square&logo=googlechrome&logoColor=15151E" alt="Portfolio" /></a>
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <a href="https://www.instagram.com/loic.lfc/?next=%2Fignlolyworld%2F" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/badge/VUES%20G%C3%89N%C3%89R%C3%89ES-1.40M-BDA5E8?style=for-the-badge&labelColor=252532" alt="1.40M vues générées" />
+  <img src="https://img.shields.io/badge/EXP%C3%89RIENCE-3%20ANS-BDA5E8?style=for-the-badge&labelColor=252532" alt="3 ans d'expérience" />
+  <img src="https://img.shields.io/badge/SATISFACTION%20CLIENT-100%25-BDA5E8?style=for-the-badge&labelColor=252532" alt="100% satisfaction client" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Logiciels & outils</h3>
+  <img src="https://skillicons.dev/icons?i=pr,ae,ps,ai,au,blender,figma,vscode&theme=dark" height="43" alt="Premiere Pro, After Effects, Photoshop, Illustrator, Audition, Blender, Figma et VS Code" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Adobe_Media_Encoder_CC_2026_icon.svg" height="43" alt="Adobe Media Encoder" title="Adobe Media Encoder" />
+  <br><br>
+  <h3>Développement</h3>
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,php,cpp,laravel,unity&theme=dark" height="43" alt="Python, HTML, CSS, JavaScript, PHP, C++, Laravel et Unity" />
+  <br><br>
+  <a href="https://discord.com/users/652535917227016192">
+    <img src="https://lanyard.cnrad.dev/api/652535917227016192?theme=dark&bg=252532&borderRadius=10&animated=true" alt="Mon statut Discord" />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=loic-lfc.loic-lfc&"  />
-</div>
-
-###
-
-<h3 align="center">• . ݁₊ ⊹ . ݁꒰ঌ· About Me ·໒꒱ ݁ . ⊹ ₊ ݁. •</h3>
-
-###
-
-<h3 align="center">Bonjour !</h3>
-
-###
-
-<p align="center">Je m'appelle Lola et j'ai 19 ans<br>Passioné de montage vidéo, j'utilise depuis 2 ans Premiere Pro et After Effects<br>Je suis aussi passioné par le monde de l'indé, autant par les jeux que par les séries</p>
-
-###
-
-<h3 align="center">≡ Les programmes que j'utilise</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=au" height="40" alt="adobeaudition logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<h3 align="center">≡ Les languages que je maitrise</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-</div>
-
-###
